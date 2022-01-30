@@ -25,7 +25,7 @@ var email=document.getElementById("email").value;
 var password=document.getElementById("password").value;
 if(email=="educationboys@gmail.com"&& password=="user")
 {
-	window.open("https://sites.google.com/view/cooledu");
+	window.open("https://sites.google.com/view/cooleducations");
 	return false;
 
 }
